@@ -1,0 +1,46 @@
+{
+    "expandedState": {
+        "data": true,
+        "model": true,
+        "component": true,
+        "controller": true,
+        "resource": true,
+        "608e4500-7d54-4ed8-8f84-73f63b2a62e8": {
+            "id": "608e4500-7d54-4ed8-8f84-73f63b2a62e8",
+            "cn": [
+                {
+                    "id": "c194f605-d01f-4650-8b64-b996d39962e5"
+                },
+                {
+                    "id": "19a7bcfd-ad7f-42dc-91b4-8bdb96213280"
+                }
+            ]
+        },
+        "045fe180-d43e-498d-8349-4cecb2279568": {
+            "id": "045fe180-d43e-498d-8349-4cecb2279568"
+        },
+        "1b3922ca-9101-4c17-aa09-22018f126878": {
+            "id": "1b3922ca-9101-4c17-aa09-22018f126878"
+        }
+    },
+    "tabState": {
+        "openTabs": [
+            "608e4500-7d54-4ed8-8f84-73f63b2a62e8",
+            "application"
+        ]
+    },
+    "canvasState": {
+        "topInstance": null
+    },
+    "inspectorState": {
+        "topInstance": "608e4500-7d54-4ed8-8f84-73f63b2a62e8",
+        "selectedInstance": "c194f605-d01f-4650-8b64-b996d39962e5"
+    },
+    "codeState": {
+        "topInstance": "608e4500-7d54-4ed8-8f84-73f63b2a62e8"
+    },
+    "editMode": "code",
+    "userSettings": {
+        "no-cmd": false
+    }
+}

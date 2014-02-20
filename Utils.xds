@@ -1,0 +1,48 @@
+{
+    "name": "Utils",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "4.0.2.67",
+            "frameworkVersion": "2.3.1.410"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "iPhone",
+                "builtIn": true,
+                "height": 480,
+                "width": 320
+            },
+            "viewportOrientation": "portrait"
+        },
+        "urlPrefix": "",
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "CRLF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true
+    },
+    "xdsVersion": "3.0.2",
+    "xdsBuild": 1375,
+    "schemaVersion": 1,
+    "upgradeVersion": 300000000004,
+    "framework": "touch23",
+    "viewOrderMap": {
+        "view": [],
+        "store": [],
+        "controller": [
+            "608e4500-7d54-4ed8-8f84-73f63b2a62e8"
+        ],
+        "model": [],
+        "resource": [
+            "045fe180-d43e-498d-8349-4cecb2279568",
+            "1b3922ca-9101-4c17-aa09-22018f126878"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
